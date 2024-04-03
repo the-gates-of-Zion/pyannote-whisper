@@ -1,0 +1,19 @@
+0.00 10.00 SPEAKER_00  I think if you're a leader and you don't understand the terms that you're using, that's probably the first start.
+10.00 16.00 SPEAKER_00  It's really important that as a leader in the organisation, you understand what digitization means.
+16.00 26.00 SPEAKER_00  You take the time to read widely in the sector. There are a lot of really good books, Kevin Kelly, who started Wild Magazine, has written a great book on various technologies.
+26.00 34.00 SPEAKER_00  I think understanding the technologies, understanding what's out there, so that you can separate the heart from the hope is really an important first step.
+34.00 41.00 SPEAKER_00  And then making sure you understand the relevance of that for your function and how that fits into your business is the second step.
+41.00 48.00 SPEAKER_01  I think two simple suggestions. One is, I love the phrase brilliant at the basics, right?
+48.00 62.00 SPEAKER_01  So, you know, how can you become brilliant at the basics? But beyond that, you know, the fundamental thing I've seen which hasn't changed is so few organisations as a first step have truly taking control of their spend data.
+62.00 68.00 SPEAKER_01  You know, as a key first step on the digital transformation, taking ownership of data.
+68.00 74.00 SPEAKER_01  And that's not a decision to use one vendor over someone else. That says, we are going to be completely data driven.
+74.00 80.00 SPEAKER_01  We're going to try and be as real time as possible. And we're going to be able to explain that data to anyone the way they want to see it.
+80.00 94.00 SPEAKER_03  Understand why you're doing it. And then the second thing is, reach out to suppliers in the market, talk to them, collaborate with them. You've got a much better outcome.
+95.00 108.00 SPEAKER_04  Think about what outcome you want at the end instead of thinking about the different processes and their software names. So, esourcing being one of 20.
+108.00 119.00 SPEAKER_04  Think big and be brave. I think, and talk to technology vendors because rather than just sending them forms, we weren't bite you.
+119.00 125.00 SPEAKER_02  I think we should fundamentally, all of us, we think how procurement should be done.
+125.00 130.00 SPEAKER_02  And then start to define the functionality that we need and how we can make this work.
+130.00 136.00 SPEAKER_02  What we do today is absolutely wrong. We don't like it.
+136.00 142.00 SPEAKER_02  Because people don't like it, our colleagues don't like it. Nobody wants it.
+142.00 146.00 SPEAKER_02  And we're spending a huge amount of money for no reason.
+149.00 151.00 None  Thank you.
