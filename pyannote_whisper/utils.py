@@ -40,7 +40,7 @@ def merge_sentence(spk_text):
             text_cache = [(seg, spk, text)]
             pre_spk = spk
 
-        elif text[-1] in PUNC_SENT_END:
+        elif text and len(text) > 0 and text[-1] in PUNC_SENT_END:
             text_cache.append((seg, spk, text))
             merged_spk_text.append(merge_cache(text_cache))
             text_cache = []
@@ -61,7 +61,7 @@ def diarize_text(transcribe_res, diarization_result):
 
 
 def write_to_txt(spk_sent, file):
-    with open(file, 'w') as fp:
+    with open(file, 'w', encoding='UTF-8') as fp:
         for seg, spk, sentence in spk_sent:
-            line = f'{seg.start:.2f} {seg.end:.2f} {spk} {sentence}\n'
-            fp.write(line)
+            line = f'{spk} {str(sentence)}\n'
+            fp.write(str(line))

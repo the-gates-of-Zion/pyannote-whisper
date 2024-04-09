@@ -3,4 +3,5 @@ torch
 torchvision
 openai-whisper
 pyannote.audio
-sndfile
+soundfile
+speechbrain
