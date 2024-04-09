@@ -64,5 +64,5 @@ https://github.com/pyannote/pyannote-audio/blob/develop/tutorials/applying_a_pip
 
 ## start
 python pyannote_whisper/transcribe.py data/afjiv.wav --model tiny --diarization True
-### start
+### start large
 python pyannote_whisper/transcribe.py data/afjiv.wav --model large-v3 --diarization True
